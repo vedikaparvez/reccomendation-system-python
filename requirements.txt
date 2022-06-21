@@ -7,7 +7,7 @@ enum34==1.1.6
 idna==2.7
 ipaddress==1.0.22
 lightfm==1.15
-numpy==1.15.0
+numpy==1.22.0
 oauthlib==2.1.0
 pycparser==2.18
 pyOpenSSL==18.0.0
